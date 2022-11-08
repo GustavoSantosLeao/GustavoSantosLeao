@@ -1,4 +1,4 @@
-### <h1>Gustavo Leão</h1>
+<h1>Gustavo Leão</h1>
 
 <div>
   <h2>Welcome to my Profile 💜</h2>
